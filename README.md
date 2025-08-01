@@ -5,7 +5,7 @@ This project is a personal portfolio website for Nitesh Pandey, a Data Analyst a
 
 ### The project consists of:<br>
  &emsp;• A frontend built with HTML, CSS, and JavaScript.<br>
- &emsp;• A Flask-based backend with MySQL database integration for storing contact messages.<br>
+ &emsp;• A Flask-based backend that handles contact form submissions by sending emails using SMTP.<br>
 
 ## 📁 Project Structure
 bash<br>
@@ -19,3 +19,4 @@ project/<br>
 ├── /assets/<br>
 │   &emsp;├── /images/            &emsp;# Contains avatar and project images<br>
 │   &emsp;└── /css/               &emsp;# Contains style.css<br>
+│   &emsp;└── /js/               &emsp;# Contains style.js<br>
