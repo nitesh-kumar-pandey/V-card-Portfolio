@@ -1,21 +1,21 @@
 # V-card-Portfolio
 
-# 📌 Overview
+## 📌 Overview
 This project is a personal portfolio website for Nitesh Pandey, a Data Analyst and Data Scientist. It showcases his professional background, technical skills, and projects, and includes a backend system to handle contact form submissions.
 
-The project consists of:
- • A frontend built with HTML, CSS, and JavaScript.
- • A Flask-based backend with MySQL database integration for storing contact messages.
+### The project consists of:<br>
+ &emsp;• A frontend built with HTML, CSS, and JavaScript.<br>
+ &emsp;• A Flask-based backend with MySQL database integration for storing contact messages.<br>
 
-# 📁 Project Structure
-bash
-Copy
-Edit
-project/
-│
-├── app.py                  # Flask backend logic
-├── index.html              # Main HTML for the portfolio
-├── style.css               # Styling for the portfolio
-├── /assets/
-│   ├── /images/            # Contains avatar and project images
-│   └── /css/               # Contains style.css
+## 📁 Project Structure
+bash<br>
+Copy<br>
+Edit<br>
+project/<br>
+│<br>
+├── app.py                  &emsp;# Flask backend logic<br>
+├── index.html              &emsp;# Main HTML for the portfolio<br>
+├── style.css               &emsp;# Styling for the portfolio<br>
+├── /assets/<br>
+│   &emsp;├── /images/            &emsp;# Contains avatar and project images<br>
+│   &emsp;└── /css/               &emsp;# Contains style.css<br>
