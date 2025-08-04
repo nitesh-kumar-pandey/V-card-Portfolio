@@ -9,13 +9,13 @@ This project is a personal portfolio website for Nitesh Pandey, a Data Analyst a
 
 ## 📁 Project Structure
 ```bash
-project/<br>
-│<br>
-├── app.py                  &emsp;# Flask backend logic<br>
-├── index.html              &emsp;# Main HTML for the portfolio<br>
-├── style.css               &emsp;# Styling for the portfolio<br>
-├── /assets/<br>
-│   &emsp;├── /images/            &emsp;# Contains avatar and project images<br>
-│   &emsp;└── /css/               &emsp;# Contains style.css<br>
-│   &emsp;└── /js/               &emsp;# Contains style.js<br>
+project/
+│
+├── app.py                 # Flask backend logic
+├── index.html             # Main HTML for the portfolio
+├── style.css              # Styling for the portfolio
+├── /assets/
+│   ├── /images/           # Contains avatar and project images
+│   └── /css/              # Contains style.css
+│   └── /js/               # Contains style.js
 ```
